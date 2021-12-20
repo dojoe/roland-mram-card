@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 06/02/2016 22:19:26
+
+BeginCmp
+TimeStamp = /540486F5;
+Reference = C1;
+ValeurCmp = 1uF X7R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048702;
+Reference = C2;
+ValeurCmp = 1uF X7R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /540487DE;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54055D40;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048750;
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048760;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048766;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404876C;
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048772;
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /540561B7;
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048745;
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C52412;
+Reference = C12;
+ValeurCmp = 560p;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C52418;
+Reference = C13;
+ValeurCmp = 560p;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C5241E;
+Reference = C14;
+ValeurCmp = 560p;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54046A3A;
+Reference = J1;
+ValeurCmp = D50-EDGECONN;
+IdModule  = EDGE1S34;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C50F0D;
+Reference = JP1;
+ValeurCmp = JUMPER3;
+IdModule  = S_JUMPER_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5410B047;
+Reference = JP2;
+ValeurCmp = JUMPER3;
+IdModule  = S_JUMPER_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C52F31;
+Reference = JP3;
+ValeurCmp = JUMPER3;
+IdModule  = S_JUMPER_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /56B66719;
+Reference = JP4;
+ValeurCmp = JUMPER;
+IdModule  = S_JUMPER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C518E6;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C518F3;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C518F9;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54057AC2;
+Reference = RN1;
+ValeurCmp = 10k;
+IdModule  = CAT25;
+EndCmp
+
+BeginCmp
+TimeStamp = /5406490D;
+Reference = RN2;
+ValeurCmp = 10k;
+IdModule  = CAT25;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064939;
+Reference = RN3;
+ValeurCmp = 10k;
+IdModule  = CAT25;
+EndCmp
+
+BeginCmp
+TimeStamp = /540648BF;
+Reference = RN4;
+ValeurCmp = 10k;
+IdModule  = CAT25;
+EndCmp
+
+BeginCmp
+TimeStamp = /5405F6D8;
+Reference = RN5;
+ValeurCmp = 10k;
+IdModule  = CAT25;
+EndCmp
+
+BeginCmp
+TimeStamp = /54048591;
+Reference = SW1;
+ValeurCmp = SPDT;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54047D2D;
+Reference = SW2;
+ValeurCmp = SP4T;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54047D3A;
+Reference = SW3;
+ValeurCmp = SP4T;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D91638;
+Reference = TP1;
+ValeurCmp = CONN_6;
+IdModule  = 6P_TESTPT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54046CBC;
+Reference = U1;
+ValeurCmp = EST-MR2A08A;
+IdModule  = TSOP2-44;
+EndCmp
+
+BeginCmp
+TimeStamp = /540486D7;
+Reference = U2;
+ValeurCmp = MIC5265-3.3YD5;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54046D0F;
+Reference = U3;
+ValeurCmp = 74LVX541;
+IdModule  = tssop-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /54047197;
+Reference = U4;
+ValeurCmp = 74LVX541;
+IdModule  = tssop-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404719D;
+Reference = U5;
+ValeurCmp = 74LVX541;
+IdModule  = tssop-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /540471A3;
+Reference = U6;
+ValeurCmp = 74LVX4245;
+IdModule  = tssop-24;
+EndCmp
+
+BeginCmp
+TimeStamp = /5410CF7C;
+Reference = U7;
+ValeurCmp = 74HC02;
+IdModule  = tssop-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /54061921;
+Reference = U8;
+ValeurCmp = 74HC02;
+IdModule  = tssop-14;
+EndCmp
+
+EndListe

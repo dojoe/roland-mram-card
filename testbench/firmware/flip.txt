@@ -1,0 +1,11 @@
+#-demo
+-device atmega32u4
+-hardware USB
+-operation
+memory flash
+erase F
+blankcheck
+loadbuffer "testbench.hex"
+program
+verify
+start reset 0

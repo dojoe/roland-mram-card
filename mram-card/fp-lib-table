@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name CAT25)(type Legacy)(uri D:\Projects\d50_mram_card\parts\CAT25.mod)(options "")(descr ""))
+  (lib (name dojoe_scaled)(type Legacy)(uri D:\Projects\d50_mram_card\parts\dojoe_scaled.mod)(options "")(descr ""))
+  (lib (name EDGE1S34)(type Legacy)(uri D:\Projects\d50_mram_card\parts\EDGE1S34.mod)(options "")(descr ""))
+  (lib (name open-project)(type Legacy)(uri D:\Projects\d50_mram_card\parts\open-project.mod)(options "")(descr ""))
+  (lib (name shack)(type Legacy)(uri D:\Projects\d50_mram_card\parts\shack.mod)(options "")(descr ""))
+  (lib (name slideswitch)(type Legacy)(uri D:\Projects\d50_mram_card\parts\slideswitch.mod)(options "")(descr ""))
+  (lib (name synth_logo)(type Legacy)(uri D:\Projects\d50_mram_card\parts\synth_logo.mod)(options "")(descr ""))
+  (lib (name TSOP2-44)(type Legacy)(uri D:\Projects\d50_mram_card\parts\TSOP2-44.mod)(options "")(descr ""))
+  (lib (name TSOP44)(type Legacy)(uri D:\Projects\d50_mram_card\parts\TSOP44.mod)(options "")(descr ""))
+  (lib (name TSSOP20)(type Legacy)(uri D:\Projects\d50_mram_card\parts\TSSOP20.mod)(options "")(descr ""))
+  (lib (name TSSOP24)(type Legacy)(uri D:\Projects\d50_mram_card\parts\TSSOP24.mod)(options "")(descr ""))
+)

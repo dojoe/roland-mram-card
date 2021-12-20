@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by PcbNew date = 02/05/2015 19:31:44
+
+BeginCmp
+TimeStamp = /54FCB93D;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FCB94A;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FCBCB3;
+Reference = C3;
+ValeurCmp = 4u7;
+IdModule  = c_tant_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90C35;
+Reference = J1;
+ValeurCmp = D50-EDGECONN;
+IdModule  = d50conn_test;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D917D6;
+Reference = J2;
+ValeurCmp = CONN_6;
+IdModule  = 6P_TESTPT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E3BA63;
+Reference = Q1;
+ValeurCmp = MOS_P;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9F102;
+Reference = U1;
+ValeurCmp = TINYMEGA;
+IdModule  = TinyMega;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90C5A;
+Reference = U2;
+ValeurCmp = 74HC595;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90C67;
+Reference = U3;
+ValeurCmp = 74HC595;
+IdModule  = DIP-16__300;
+EndCmp
+
+EndListe
