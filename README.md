@@ -10,7 +10,7 @@ The card has been developed with a lot of testing help from the community over a
 
 ## Compatibility
 
-* **Tested and fully compatible:** Roland A-90, D-5, D-50, D-550, D-10, D-110, D-70, U-20, JD-800, JD-990, JV-880, JV-1000, JV-1080, JV-2080, R-880 (GC-8), R-8M, GR-1, GR-50, PM-16, TR-626, Akai MX-1000, VX600.
+* **Tested and fully compatible:** Roland A-90, D-5, D-20, D-50, D-550, D-10, D-110, D-70, U-20, JD-800, JD-990, JV-880, JV-1000, JV-1080, JV-2080, R-880 (GC-8), R-8M, GR-1, GR-50, PM-16, TR-626, Akai MX-1000, VX600.
 * **Mostly compatible:** Roland TD-10, TD-20. The card reportedly has errors when inserted all the way, but pulled back 1/8th of an inch it works fine.
 * **Not compatible:** Roland VG-8, Peavey Tubefex.
 * Some units like the Roland U-110 and U-220 only accept ROM cards, not RAM cards. Naturally, this RAM card replacement does not work in those, either.
