@@ -35,6 +35,8 @@ Send the [KiCAD PCB file](mram-card/d50mram.kicad_pcb) or the [Gerbers](mram-car
 
 As for parts, check out the [bill of materials](mram-card/d50mram.bom.csv).
 
+Did you build one, or even more than one? We'd love to hear from you, feel free to leave a comment in the [card builder thread](https://github.com/dojoe/roland-mram-card/issues/2) :)
+
 # Licenses
 
 ## Memory card
