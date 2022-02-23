@@ -19,7 +19,7 @@ The card has been developed with a lot of testing help from the community over a
 
 Functionally, this design is 100% identical to the cards we sell online. I did make some changes to the appearance however to make homemade cards clearly distinguishable from ours.
 
-Also, one part we use (a Bourns CAT25 SMD resistor network) is no longer being manufactured, so I updated the BOM with a Panasonic part that seems to be a drop-in replacement. We have not tried that replacement part ourselves yet though - please let me know via a GitHub issue whether it's as drop-in as it looks.
+Also, one part we use (a Bourns CAT25 SMD resistor network) is no longer being manufactured, so I updated the BOM with a Panasonic part as a drop-in replacement.
 
 ## Directories
 
